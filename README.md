@@ -36,7 +36,7 @@ Follow these steps to run the Flutter app:
    flutter --version
    cd "tic_tac/lib"
    flutter pub get
-   flutter run
+   flutter run lib/tic_tac_toe_logic.dart
 
 ## Game Results
 
